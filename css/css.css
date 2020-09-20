@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	width: 1040px;
+	margin: 0px auto;
+	border: 2px black solid;
+}
+li .description{
+	font-style: italic;
+	
+}
+
+li .nameOfTechnology{
+	font-weight: bold;	
+}
