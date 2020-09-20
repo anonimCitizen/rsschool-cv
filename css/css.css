@@ -3,7 +3,7 @@
 
 
 body{
-	width: 1040px;
+	width: 1000px;
 	margin: 0px auto;
 	border: 2px black solid;
 }
@@ -14,4 +14,7 @@ li .description{
 
 li .nameOfTechnology{
 	font-weight: bold;	
+}
+.photo{
+	width: 100px;
 }
